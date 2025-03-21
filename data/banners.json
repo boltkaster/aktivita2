@@ -5,12 +5,12 @@
         "url": "https://example.com/1"
 },
     "banner2": {
-    "file": "banner2.jpg",
+    "file": "img/banners/banner2.jpg",
         "text": "Second",
         "url": "https://example.com/2"
 },
     "banner3": {
-    "file": "banner3.jpg",
+    "file": "img/banners/banner3.jpg",
         "text": "Third",
         "url": "https://example.com/3"
 }
